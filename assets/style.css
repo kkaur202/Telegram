@@ -72,22 +72,25 @@ p {
     background-position: center;
 }
 
+/*--------------------search-engine-optimization & .social-media-marketing---*/
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*--------------online-reputation-managment--------*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*------------------The text boxes content ------*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*------------side bar / aside ---------*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
